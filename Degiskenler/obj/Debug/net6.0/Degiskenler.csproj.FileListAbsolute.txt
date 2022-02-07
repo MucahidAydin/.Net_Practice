@@ -1,0 +1,15 @@
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Degiskenler\bin\Debug\net6.0\Degiskenler.exe
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Degiskenler\bin\Debug\net6.0\Degiskenler.deps.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Degiskenler\bin\Debug\net6.0\Degiskenler.runtimeconfig.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Degiskenler\bin\Debug\net6.0\Degiskenler.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Degiskenler\bin\Debug\net6.0\ref\Degiskenler.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Degiskenler\bin\Debug\net6.0\Degiskenler.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Degiskenler\obj\Debug\net6.0\Degiskenler.csproj.AssemblyReference.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Degiskenler\obj\Debug\net6.0\Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Degiskenler\obj\Debug\net6.0\Degiskenler.AssemblyInfoInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Degiskenler\obj\Debug\net6.0\Degiskenler.AssemblyInfo.cs
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Degiskenler\obj\Debug\net6.0\Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Degiskenler\obj\Debug\net6.0\Degiskenler.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Degiskenler\obj\Debug\net6.0\ref\Degiskenler.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Degiskenler\obj\Debug\net6.0\Degiskenler.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Degiskenler\obj\Debug\net6.0\Degiskenler.genruntimeconfig.cache
