@@ -35,7 +35,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             string hour=DateTime.Now.ToString("HH:mm");
             Console.WriteLine(hour);
-
+            
+            
             Console.ReadKey();
 
         }
