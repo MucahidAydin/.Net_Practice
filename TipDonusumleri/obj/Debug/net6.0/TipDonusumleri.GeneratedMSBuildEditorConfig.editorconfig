@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Degiskenler
-build_property.ProjectDir = c:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Degiskenler\
+build_property.RootNamespace = TipDonusumleri
+build_property.ProjectDir = c:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TipDonusumleri\

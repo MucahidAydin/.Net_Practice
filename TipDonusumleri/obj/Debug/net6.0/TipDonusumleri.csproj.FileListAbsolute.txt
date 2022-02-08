@@ -1,0 +1,15 @@
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TipDonusumleri\bin\Debug\net6.0\TipDonusumleri.exe
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TipDonusumleri\bin\Debug\net6.0\TipDonusumleri.deps.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TipDonusumleri\bin\Debug\net6.0\TipDonusumleri.runtimeconfig.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TipDonusumleri\bin\Debug\net6.0\TipDonusumleri.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TipDonusumleri\bin\Debug\net6.0\ref\TipDonusumleri.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TipDonusumleri\bin\Debug\net6.0\TipDonusumleri.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TipDonusumleri\obj\Debug\net6.0\TipDonusumleri.csproj.AssemblyReference.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TipDonusumleri\obj\Debug\net6.0\TipDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TipDonusumleri\obj\Debug\net6.0\TipDonusumleri.AssemblyInfoInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TipDonusumleri\obj\Debug\net6.0\TipDonusumleri.AssemblyInfo.cs
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TipDonusumleri\obj\Debug\net6.0\TipDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TipDonusumleri\obj\Debug\net6.0\TipDonusumleri.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TipDonusumleri\obj\Debug\net6.0\ref\TipDonusumleri.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TipDonusumleri\obj\Debug\net6.0\TipDonusumleri.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TipDonusumleri\obj\Debug\net6.0\TipDonusumleri.genruntimeconfig.cache
