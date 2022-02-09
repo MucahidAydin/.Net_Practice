@@ -1,0 +1,15 @@
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\SwitchCase\bin\Debug\net6.0\SwitchCase.exe
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\SwitchCase\bin\Debug\net6.0\SwitchCase.deps.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\SwitchCase\bin\Debug\net6.0\SwitchCase.runtimeconfig.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\SwitchCase\bin\Debug\net6.0\SwitchCase.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\SwitchCase\bin\Debug\net6.0\ref\SwitchCase.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\SwitchCase\bin\Debug\net6.0\SwitchCase.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\SwitchCase\obj\Debug\net6.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfo.cs
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\SwitchCase\obj\Debug\net6.0\SwitchCase.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\SwitchCase\obj\Debug\net6.0\ref\SwitchCase.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\SwitchCase\obj\Debug\net6.0\SwitchCase.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\SwitchCase\obj\Debug\net6.0\SwitchCase.genruntimeconfig.cache
