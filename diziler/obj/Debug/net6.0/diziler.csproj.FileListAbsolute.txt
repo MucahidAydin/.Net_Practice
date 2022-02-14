@@ -1,0 +1,15 @@
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\diziler\bin\Debug\net6.0\diziler.exe
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\diziler\bin\Debug\net6.0\diziler.deps.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\diziler\bin\Debug\net6.0\diziler.runtimeconfig.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\diziler\bin\Debug\net6.0\diziler.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\diziler\bin\Debug\net6.0\ref\diziler.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\diziler\bin\Debug\net6.0\diziler.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\diziler\obj\Debug\net6.0\diziler.csproj.AssemblyReference.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\diziler\obj\Debug\net6.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\diziler\obj\Debug\net6.0\diziler.AssemblyInfoInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\diziler\obj\Debug\net6.0\diziler.AssemblyInfo.cs
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\diziler\obj\Debug\net6.0\diziler.csproj.CoreCompileInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\diziler\obj\Debug\net6.0\diziler.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\diziler\obj\Debug\net6.0\ref\diziler.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\diziler\obj\Debug\net6.0\diziler.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\diziler\obj\Debug\net6.0\diziler.genruntimeconfig.cache
