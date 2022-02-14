@@ -1,0 +1,15 @@
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Metotlar\bin\Debug\net6.0\Metotlar.exe
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Metotlar\bin\Debug\net6.0\Metotlar.deps.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Metotlar\bin\Debug\net6.0\Metotlar.runtimeconfig.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Metotlar\bin\Debug\net6.0\Metotlar.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Metotlar\bin\Debug\net6.0\ref\Metotlar.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Metotlar\bin\Debug\net6.0\Metotlar.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Metotlar\obj\Debug\net6.0\Metotlar.csproj.AssemblyReference.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Metotlar\obj\Debug\net6.0\Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Metotlar\obj\Debug\net6.0\Metotlar.AssemblyInfoInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Metotlar\obj\Debug\net6.0\Metotlar.AssemblyInfo.cs
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Metotlar\obj\Debug\net6.0\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Metotlar\obj\Debug\net6.0\Metotlar.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Metotlar\obj\Debug\net6.0\ref\Metotlar.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Metotlar\obj\Debug\net6.0\Metotlar.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Metotlar\obj\Debug\net6.0\Metotlar.genruntimeconfig.cache
