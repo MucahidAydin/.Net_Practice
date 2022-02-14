@@ -1,0 +1,15 @@
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\ArraySinifiMethodlari\bin\Debug\net6.0\ArraySinifiMethodlari.exe
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\ArraySinifiMethodlari\bin\Debug\net6.0\ArraySinifiMethodlari.deps.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\ArraySinifiMethodlari\bin\Debug\net6.0\ArraySinifiMethodlari.runtimeconfig.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\ArraySinifiMethodlari\bin\Debug\net6.0\ArraySinifiMethodlari.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\ArraySinifiMethodlari\bin\Debug\net6.0\ref\ArraySinifiMethodlari.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\ArraySinifiMethodlari\bin\Debug\net6.0\ArraySinifiMethodlari.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\ArraySinifiMethodlari\obj\Debug\net6.0\ArraySinifiMethodlari.csproj.AssemblyReference.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\ArraySinifiMethodlari\obj\Debug\net6.0\ArraySinifiMethodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\ArraySinifiMethodlari\obj\Debug\net6.0\ArraySinifiMethodlari.AssemblyInfoInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\ArraySinifiMethodlari\obj\Debug\net6.0\ArraySinifiMethodlari.AssemblyInfo.cs
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\ArraySinifiMethodlari\obj\Debug\net6.0\ArraySinifiMethodlari.csproj.CoreCompileInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\ArraySinifiMethodlari\obj\Debug\net6.0\ArraySinifiMethodlari.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\ArraySinifiMethodlari\obj\Debug\net6.0\ref\ArraySinifiMethodlari.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\ArraySinifiMethodlari\obj\Debug\net6.0\ArraySinifiMethodlari.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\ArraySinifiMethodlari\obj\Debug\net6.0\ArraySinifiMethodlari.genruntimeconfig.cache
