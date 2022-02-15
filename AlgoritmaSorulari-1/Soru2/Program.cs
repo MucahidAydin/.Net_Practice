@@ -4,15 +4,15 @@ namespace Soru2
 {
 	internal class Program
 	{
-		static void Main(string[] args){
-			
-			Console.Write(" n sayısını giriniz: ");
-            int sayi=Convert.ToInt32(Console.ReadLine());
-            Console.Write(" m sayısını giriniz: ");
-            int sayi2=Convert.ToInt32(Console.ReadLine());
+		static void Main(string[] args)
+		{			
+	            Console.Write(" n sayısını giriniz: ");
+		    int sayi=Convert.ToInt32(Console.ReadLine());
+		    Console.Write(" m sayısını giriniz: ");
+		    int sayi2=Convert.ToInt32(Console.ReadLine());
 
-            for (int i = 0; i < sayi; i++)
-			{
+		    for (int i = 0; i < sayi; i++)
+				{
 				Console.Write("{0}. sayıyı giriniz : ",(i+1));
 				int sayi3=Convert.ToInt32(Console.ReadLine());
 
@@ -26,7 +26,7 @@ namespace Soru2
 				}
 			}
 
-            Console.ReadKey();
+            	   Console.ReadKey();
 		}
 	}
 }
