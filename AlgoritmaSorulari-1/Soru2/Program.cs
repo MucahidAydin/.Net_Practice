@@ -4,8 +4,8 @@ namespace Soru2
 {
 	internal class Program
 	{
-		static void Main(string[] args)
-		{
+		static void Main(string[] args){
+			
 			Console.Write(" n sayısını giriniz: ");
             int sayi=Convert.ToInt32(Console.ReadLine());
             Console.Write(" m sayısını giriniz: ");
