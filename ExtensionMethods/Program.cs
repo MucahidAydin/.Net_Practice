@@ -6,44 +6,44 @@ namespace ExtensionMethods
 	{
 		static void Main(string[] args)
 		{
-			//Rekürsif - öz yinelemeli
-            //3^4
-            int result=1;
-            for (int i = 1; i < 5; i++)
-                result*=3;              
-            Console.WriteLine(result);
-            int a=3;
-            Console.WriteLine(a.Expo(4));
-            metotlar instance =new metotlar();
-            Console.WriteLine(instance.Expo2(3,4));
+		    //Rekürsif - öz yinelemeli
+		    //3^4
+		    int result=1;
+		    for (int i = 1; i < 5; i++)
+			result*=3;              
+		    Console.WriteLine(result);
+		    int a=3;
+		    Console.WriteLine(a.Expo(4));
+		    metotlar instance =new metotlar();
+		    Console.WriteLine(instance.Expo2(3,4));
 
-            string ifade = "Mücahid Aydin";
-            bool sonuc = ifade.CheckSpaces();
-            Console.WriteLine(sonuc);
-            
-            if (sonuc)
-            {
-                Console.WriteLine(ifade.RemoveWhiteSpaces());                               
-            }
-            
-            Console.WriteLine(ifade.MakeLowerCase());
-            Console.WriteLine(ifade.MakeUpperCase());
+		    string ifade = "Mücahid Aydin";
+		    bool sonuc = ifade.CheckSpaces();
+		    Console.WriteLine(sonuc);
 
-            int[] diziler = {5,56,446,54864,849,5,49,459,878,9495,78,45,54698,894,98,978,98,794,597,98489,7489,9};
-            diziler.SortArray();
-            diziler.EkranaYazdır();
+		    if (sonuc)
+		    {
+			Console.WriteLine(ifade.RemoveWhiteSpaces());                               
+		    }
 
-            int sayi = 7;
-            Console.WriteLine(sayi.IsEvenNumber());
-            Console.WriteLine(ifade.GetFirstCharacter());
+		    Console.WriteLine(ifade.MakeLowerCase());
+		    Console.WriteLine(ifade.MakeUpperCase());
 
-            int ilkSayi=14,ikinciSayi=66;
-            Console.WriteLine(ilkSayi.toplam(ikinciSayi));
+		    int[] diziler = {5,56,446,54864,849,5,49,459,878,9495,78,45,54698,894,98,978,98,794,597,98489,7489,9};
+		    diziler.SortArray();
+		    diziler.EkranaYazdır();
 
-            Console.ReadKey();
-		}
-     
+		    int sayi = 7;
+		    Console.WriteLine(sayi.IsEvenNumber());
+		    Console.WriteLine(ifade.GetFirstCharacter());
+
+		    int ilkSayi=14,ikinciSayi=66;
+		    Console.WriteLine(ilkSayi.toplam(ikinciSayi));
+
+		    Console.ReadKey();
+		}     
 	}
+	
     public class metotlar
     {
        public int Expo2(int a,int b)
@@ -55,7 +55,7 @@ namespace ExtensionMethods
        }
     }
 
-      public static class Extension
+    public static class Extension
     {       
                               //(a=3,4)
         public static int Expo(this int a,int b)
