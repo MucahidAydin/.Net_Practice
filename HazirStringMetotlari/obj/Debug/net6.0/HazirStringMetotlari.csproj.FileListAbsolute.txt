@@ -1,0 +1,15 @@
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirStringMetotlari\bin\Debug\net6.0\HazirStringMetotlari.exe
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirStringMetotlari\bin\Debug\net6.0\HazirStringMetotlari.deps.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirStringMetotlari\bin\Debug\net6.0\HazirStringMetotlari.runtimeconfig.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirStringMetotlari\bin\Debug\net6.0\HazirStringMetotlari.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirStringMetotlari\bin\Debug\net6.0\ref\HazirStringMetotlari.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirStringMetotlari\bin\Debug\net6.0\HazirStringMetotlari.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirStringMetotlari\obj\Debug\net6.0\HazirStringMetotlari.csproj.AssemblyReference.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirStringMetotlari\obj\Debug\net6.0\HazirStringMetotlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirStringMetotlari\obj\Debug\net6.0\HazirStringMetotlari.AssemblyInfoInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirStringMetotlari\obj\Debug\net6.0\HazirStringMetotlari.AssemblyInfo.cs
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirStringMetotlari\obj\Debug\net6.0\HazirStringMetotlari.csproj.CoreCompileInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirStringMetotlari\obj\Debug\net6.0\HazirStringMetotlari.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirStringMetotlari\obj\Debug\net6.0\ref\HazirStringMetotlari.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirStringMetotlari\obj\Debug\net6.0\HazirStringMetotlari.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirStringMetotlari\obj\Debug\net6.0\HazirStringMetotlari.genruntimeconfig.cache
