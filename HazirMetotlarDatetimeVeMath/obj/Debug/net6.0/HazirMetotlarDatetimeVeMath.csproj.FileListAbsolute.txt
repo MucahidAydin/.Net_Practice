@@ -1,0 +1,15 @@
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirMetotlarDatetimeVeMath\bin\Debug\net6.0\HazirMetotlarDatetimeVeMath.exe
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirMetotlarDatetimeVeMath\bin\Debug\net6.0\HazirMetotlarDatetimeVeMath.deps.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirMetotlarDatetimeVeMath\bin\Debug\net6.0\HazirMetotlarDatetimeVeMath.runtimeconfig.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirMetotlarDatetimeVeMath\bin\Debug\net6.0\HazirMetotlarDatetimeVeMath.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirMetotlarDatetimeVeMath\bin\Debug\net6.0\ref\HazirMetotlarDatetimeVeMath.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirMetotlarDatetimeVeMath\bin\Debug\net6.0\HazirMetotlarDatetimeVeMath.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirMetotlarDatetimeVeMath\obj\Debug\net6.0\HazirMetotlarDatetimeVeMath.csproj.AssemblyReference.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirMetotlarDatetimeVeMath\obj\Debug\net6.0\HazirMetotlarDatetimeVeMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirMetotlarDatetimeVeMath\obj\Debug\net6.0\HazirMetotlarDatetimeVeMath.AssemblyInfoInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirMetotlarDatetimeVeMath\obj\Debug\net6.0\HazirMetotlarDatetimeVeMath.AssemblyInfo.cs
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirMetotlarDatetimeVeMath\obj\Debug\net6.0\HazirMetotlarDatetimeVeMath.csproj.CoreCompileInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirMetotlarDatetimeVeMath\obj\Debug\net6.0\HazirMetotlarDatetimeVeMath.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirMetotlarDatetimeVeMath\obj\Debug\net6.0\ref\HazirMetotlarDatetimeVeMath.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirMetotlarDatetimeVeMath\obj\Debug\net6.0\HazirMetotlarDatetimeVeMath.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\HazirMetotlarDatetimeVeMath\obj\Debug\net6.0\HazirMetotlarDatetimeVeMath.genruntimeconfig.cache
