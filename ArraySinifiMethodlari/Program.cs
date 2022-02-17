@@ -33,8 +33,8 @@ namespace ArraySinifiMethodlari
 
 
 		 Console.WriteLine("*** Array resize ***");
-		  Array.Resize<int>(ref dizi,25);
-		  dizi[24]=545;
+		 Array.Resize<int>(ref dizi,25);
+		 dizi[24]=545;
 
 		  foreach (var sayi1 in dizi)
 		    Console.WriteLine(sayi1);
