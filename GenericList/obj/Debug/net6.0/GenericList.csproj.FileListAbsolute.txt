@@ -1,0 +1,15 @@
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\GenericList\bin\Debug\net6.0\GenericList.exe
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\GenericList\bin\Debug\net6.0\GenericList.deps.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\GenericList\bin\Debug\net6.0\GenericList.runtimeconfig.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\GenericList\bin\Debug\net6.0\GenericList.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\GenericList\bin\Debug\net6.0\ref\GenericList.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\GenericList\bin\Debug\net6.0\GenericList.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\GenericList\obj\Debug\net6.0\GenericList.csproj.AssemblyReference.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\GenericList\obj\Debug\net6.0\GenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\GenericList\obj\Debug\net6.0\GenericList.AssemblyInfoInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\GenericList\obj\Debug\net6.0\GenericList.AssemblyInfo.cs
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\GenericList\obj\Debug\net6.0\GenericList.csproj.CoreCompileInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\GenericList\obj\Debug\net6.0\GenericList.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\GenericList\obj\Debug\net6.0\ref\GenericList.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\GenericList\obj\Debug\net6.0\GenericList.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\GenericList\obj\Debug\net6.0\GenericList.genruntimeconfig.cache
