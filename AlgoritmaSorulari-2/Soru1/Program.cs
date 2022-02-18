@@ -37,7 +37,7 @@ namespace Soru1
                         asal.Add(sayi);
 
                     sayac++;
-                    if (sayac == 5)
+                    if (sayac == 20)
                         break;
                 }
                 catch
