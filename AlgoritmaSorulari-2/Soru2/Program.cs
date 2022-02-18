@@ -35,8 +35,8 @@ namespace Soru2
             float EnKücükOrtalama = ((float)(dizi[0] + dizi[1] + dizi[2]) / 3);
             float EnBüyükOrtalama = ((float)(dizi[dizi.Length - 1] + dizi[dizi.Length - 2] + dizi[dizi.Length - 3]) / 3);
 
-            Console.WriteLine("Enküçük 3 sayını ortalaması : " + EnKücükOrtalama);
-            Console.WriteLine("Enbüyük 3 sayını ortalaması : " + EnBüyükOrtalama);
+            Console.WriteLine("Enküçük 3 sayının ortalaması : " + EnKücükOrtalama);
+            Console.WriteLine("Enbüyük 3 sayının ortalaması : " + EnBüyükOrtalama);
             Console.WriteLine("Ortalama toplamı : " + (EnKücükOrtalama + EnBüyükOrtalama).ToString("0.##"));
 
             Console.ReadKey();
