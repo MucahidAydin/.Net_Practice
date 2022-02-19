@@ -1,0 +1,15 @@
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\AlgoritmaSorulari-2\Soru3\bin\Debug\net6.0\Soru3.exe
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\AlgoritmaSorulari-2\Soru3\bin\Debug\net6.0\Soru3.deps.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\AlgoritmaSorulari-2\Soru3\bin\Debug\net6.0\Soru3.runtimeconfig.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\AlgoritmaSorulari-2\Soru3\bin\Debug\net6.0\Soru3.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\AlgoritmaSorulari-2\Soru3\bin\Debug\net6.0\ref\Soru3.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\AlgoritmaSorulari-2\Soru3\bin\Debug\net6.0\Soru3.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\AlgoritmaSorulari-2\Soru3\obj\Debug\net6.0\Soru3.csproj.AssemblyReference.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\AlgoritmaSorulari-2\Soru3\obj\Debug\net6.0\Soru3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\AlgoritmaSorulari-2\Soru3\obj\Debug\net6.0\Soru3.AssemblyInfoInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\AlgoritmaSorulari-2\Soru3\obj\Debug\net6.0\Soru3.AssemblyInfo.cs
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\AlgoritmaSorulari-2\Soru3\obj\Debug\net6.0\Soru3.csproj.CoreCompileInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\AlgoritmaSorulari-2\Soru3\obj\Debug\net6.0\Soru3.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\AlgoritmaSorulari-2\Soru3\obj\Debug\net6.0\ref\Soru3.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\AlgoritmaSorulari-2\Soru3\obj\Debug\net6.0\Soru3.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\AlgoritmaSorulari-2\Soru3\obj\Debug\net6.0\Soru3.genruntimeconfig.cache
