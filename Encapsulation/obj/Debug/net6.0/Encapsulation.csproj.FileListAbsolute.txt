@@ -1,0 +1,15 @@
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Encapsulation\bin\Debug\net6.0\Encapsulation.exe
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Encapsulation\bin\Debug\net6.0\Encapsulation.deps.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Encapsulation\bin\Debug\net6.0\Encapsulation.runtimeconfig.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Encapsulation\bin\Debug\net6.0\Encapsulation.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Encapsulation\bin\Debug\net6.0\ref\Encapsulation.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Encapsulation\bin\Debug\net6.0\Encapsulation.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Encapsulation\obj\Debug\net6.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfo.cs
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Encapsulation\obj\Debug\net6.0\Encapsulation.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Encapsulation\obj\Debug\net6.0\ref\Encapsulation.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Encapsulation\obj\Debug\net6.0\Encapsulation.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\Encapsulation\obj\Debug\net6.0\Encapsulation.genruntimeconfig.cache
