@@ -1,0 +1,15 @@
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\StructKavrami\bin\Debug\net6.0\StructKavrami.exe
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\StructKavrami\bin\Debug\net6.0\StructKavrami.deps.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\StructKavrami\bin\Debug\net6.0\StructKavrami.runtimeconfig.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\StructKavrami\bin\Debug\net6.0\StructKavrami.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\StructKavrami\bin\Debug\net6.0\ref\StructKavrami.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\StructKavrami\bin\Debug\net6.0\StructKavrami.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\StructKavrami\obj\Debug\net6.0\StructKavrami.csproj.AssemblyReference.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\StructKavrami\obj\Debug\net6.0\StructKavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\StructKavrami\obj\Debug\net6.0\StructKavrami.AssemblyInfoInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\StructKavrami\obj\Debug\net6.0\StructKavrami.AssemblyInfo.cs
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\StructKavrami\obj\Debug\net6.0\StructKavrami.csproj.CoreCompileInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\StructKavrami\obj\Debug\net6.0\StructKavrami.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\StructKavrami\obj\Debug\net6.0\ref\StructKavrami.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\StructKavrami\obj\Debug\net6.0\StructKavrami.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\StructKavrami\obj\Debug\net6.0\StructKavrami.genruntimeconfig.cache
