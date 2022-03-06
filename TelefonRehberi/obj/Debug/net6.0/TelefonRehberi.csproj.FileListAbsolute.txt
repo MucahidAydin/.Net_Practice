@@ -1,0 +1,15 @@
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TelefonRehberi\bin\Debug\net6.0\TelefonRehberi.exe
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TelefonRehberi\bin\Debug\net6.0\TelefonRehberi.deps.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TelefonRehberi\bin\Debug\net6.0\TelefonRehberi.runtimeconfig.json
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TelefonRehberi\bin\Debug\net6.0\TelefonRehberi.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TelefonRehberi\bin\Debug\net6.0\ref\TelefonRehberi.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TelefonRehberi\bin\Debug\net6.0\TelefonRehberi.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TelefonRehberi\obj\Debug\net6.0\TelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TelefonRehberi\obj\Debug\net6.0\TelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TelefonRehberi\obj\Debug\net6.0\TelefonRehberi.AssemblyInfoInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TelefonRehberi\obj\Debug\net6.0\TelefonRehberi.AssemblyInfo.cs
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TelefonRehberi\obj\Debug\net6.0\TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TelefonRehberi\obj\Debug\net6.0\TelefonRehberi.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TelefonRehberi\obj\Debug\net6.0\ref\TelefonRehberi.dll
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TelefonRehberi\obj\Debug\net6.0\TelefonRehberi.pdb
+C:\Users\mucahid\Documents\vcode\pratikler\c#\.Net_Practice\TelefonRehberi\obj\Debug\net6.0\TelefonRehberi.genruntimeconfig.cache
